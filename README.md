@@ -1,4 +1,4 @@
-# Checkpoint1
+# CSP451-Azure-Project
 # COURSE INFORMATION: CSP451NIA
 # STUDENT’S NAME: Aravind Ravi Kumar
 # STUDENT'S NUMBER: 118188200
